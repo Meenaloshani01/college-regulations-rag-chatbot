@@ -1,0 +1,17 @@
+[
+  {
+    "chunk_id": "attendance_policy_1",
+    "source": "attendance_policy.txt",
+    "text": "SAMPLE COLLEGE ACADEMIC POLICY Document: Attendance Policy Policy ID: ATT-001 Students are expected to attend all scheduled classes. For this demonstration, a student must maintain at least 75 percent attendance to be eligible for the semester examination. Students who do not meet the attendance requirement should contact the academic office for guidance. This document is fictional and is intended only for testing the College Regulations and Academic Policy Chatbot."
+  },
+  {
+    "chunk_id": "exam_policy_1",
+    "source": "exam_policy.txt",
+    "text": "SAMPLE COLLEGE ACADEMIC POLICY Document: Examination Policy Policy ID: EXAM-001 Students must carry their valid college identity card to the examination hall. Students should arrive at the examination venue at least 15 minutes before the scheduled examination time. Electronic devices are not permitted inside the examination hall unless explicitly authorized by the examination office. This document is fictional and is intended only for testing the College Regulations and Academic Policy Chatbot."
+  },
+  {
+    "chunk_id": "leave_policy_1",
+    "source": "leave_policy.txt",
+    "text": "SAMPLE COLLEGE ACADEMIC POLICY Document: Leave Policy Policy ID: LEAVE-001 Students who are absent due to illness should inform the academic office and follow the institution's procedure for submitting supporting documents. Approval of leave does not automatically guarantee attendance eligibility for semester examinations. This document is fictional and is intended only for testing the College Regulations and Academic Policy Chatbot."
+  }
+]

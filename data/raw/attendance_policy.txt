@@ -1,0 +1,14 @@
+
+SAMPLE COLLEGE ACADEMIC POLICY
+Document: Attendance Policy
+Policy ID: ATT-001
+
+Students are expected to attend all scheduled classes.
+For this demonstration, a student must maintain at least
+75 percent attendance to be eligible for the semester examination.
+
+Students who do not meet the attendance requirement should
+contact the academic office for guidance.
+
+This document is fictional and is intended only for testing
+the College Regulations and Academic Policy Chatbot.

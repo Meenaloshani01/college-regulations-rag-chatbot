@@ -1,0 +1,16 @@
+
+SAMPLE COLLEGE ACADEMIC POLICY
+Document: Examination Policy
+Policy ID: EXAM-001
+
+Students must carry their valid college identity card
+to the examination hall.
+
+Students should arrive at the examination venue at least
+15 minutes before the scheduled examination time.
+
+Electronic devices are not permitted inside the examination
+hall unless explicitly authorized by the examination office.
+
+This document is fictional and is intended only for testing
+the College Regulations and Academic Policy Chatbot.
